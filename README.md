@@ -1,4 +1,4 @@
-#QR Code Generator
+# QR Code Generator
 
 A simple Python GUI application that generates a QR code from text stored in a .txt file.
 The app uses Tkinter for the interface and the qrcode library to generate and save QR codes as images.
